@@ -1,0 +1,190 @@
+.navbar{
+
+}
+/*Type 1*/
+.bely-h1{
+	font-family: bely-display,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 67.34px;
+}
+
+.bely-h2{
+	font-family: bely-display,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 50.52px;
+}
+
+.bely-h3{
+	font-family: bely-display,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 30.90px;
+}
+
+.bely-h4{
+	font-family: bely-display,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 28.43px;
+}
+
+
+.nova-p{
+	font-family: proxima-nova, sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	font-style: normal;
+	color: black;
+}
+
+.nova-pemp{
+	font-family: proxima-nova, sans-serif;
+	font-size: 16px;
+	font-weight: 700;
+	font-style: normal;
+	color: black;
+}
+
+.nova-link{
+	font-family: proxima-nova, sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	font-style: normal;
+	color: blue;
+}
+/*end of type 1*/
+
+/*type 2*/
+
+.eaves-h1{
+	
+	font-size: 90.44px;
+	font-family: mrs-eaves-xl-serif, serif;
+	font-weight: 800;
+	font-style: normal;
+}
+
+
+.eaves-h2{
+	font-family: bely-display,sans-serif;
+	font-weight: 800;
+	font-style: normal;
+	font-size: 50.52px;
+}
+
+.eaves-h2{
+	font-size: 63.96px;
+	font-family: mrs-eaves-xl-serif, serif;
+	font-weight: 800;
+	font-style: normal;
+}
+
+.eaves-h3{
+	font-size: 45.23px;
+	font-family: mrs-eaves-xl-serif, serif;
+	font-weight: 800;
+	font-style: normal;
+}
+
+.eaves-h4{	
+	font-size: 31.99px;
+	font-family: mrs-eaves-xl-serif, serif;
+	font-weight: 800;
+	font-style: normal;
+}
+
+.eaves-p{
+	font-size: 16px;
+	font-family: mrs-eaves-xl-serif, 
+	serif;font-weight: 400;
+	font-style: normal;
+	color: black;
+}
+.eaves-pemp{
+	font-size: 16px;
+	font-family: mrs-eaves-xl-serif, serif;
+	font-weight: 800;
+	font-style: normal;
+	color: black;
+}
+
+.eaves-link{
+	font-family: mrs-eaves-xl-serif, serif;
+	font-size: 16px;
+	font-weight: 400;
+	font-style: normal;
+	color: blue;
+}
+
+/*end of type 2*/
+
+/*type 3*/
+
+.questrial-h1{
+	font-size: 121.50px;
+	font-family: 'Questrial', sans-serif;
+	font-weight: 800;
+	font-style: normal;
+}
+
+.questrial-h2{
+	font-size: 81px;
+	font-family: 'Questrial', sans-serif;
+	font-weight: 800;
+	font-style: normal;
+}
+
+
+.questrial-h3{
+	font-size: 54px;
+	font-family: 'Questrial', sans-serif;
+	font-weight: 800;
+	font-style: normal;
+}
+
+.questrial-h4{
+	font-size: 36px;
+	font-family: 'Questrial', sans-serif;
+	font-weight: 800;
+	font-style: normal;
+} 
+
+.roboto-p{
+	font-size: 16px;
+	font-family: font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	color: black;
+}
+.roboto-pemp{
+	font-size: 16px;
+	font-family: font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	color: black;
+}
+
+.roboto-link{
+	font-family: font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-weight: 200;
+	font-style: normal;
+	color: blue;
+}
+
+
+/*end of type 3*/
+
+
+
+
+.font-fam{
+	text-align:left;
+	padding-left: 5px;
+}
+/*.para{
+	padding-top: 60px;
+	padding-left: 30px;
+}*/
